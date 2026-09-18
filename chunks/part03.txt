@@ -1,0 +1,113 @@
+      <h3>Información de la oferta</h3>
+      <p>Establecer qué deberá incluir cada propuesta: tarifa, capacidad, personal, cobertura, control de calidad y garantías.</p>
+    </div>
+  </div>
+  <div class="bottom-criteria">Al finalizar la reunión, el proveedor debe tener claridad sobre: <strong>qué servicio se requiere, qué debe cubrir, cómo debe operar, cómo se recibe el trabajo y qué debe cotizar.</strong></div>
+</section>
+
+<section class="slide" data-title="Mapa de los servicios">
+  <div class="kicker">Tres necesidades distintas</div>
+  <h2 class="title">Mapa ejecutivo del requerimiento</h2>
+  <div class="rule"></div>
+  <div class="map-top">
+    <div class="map-card band blue">
+      <div>
+        <div class="k">CAR 1</div>
+        <div class="icon" style="color:#fff;margin:16px 0 18px"><svg viewBox="0 0 24 24"><path d="M3 12h18M12 3v18"/><circle cx="12" cy="12" r="7"/></svg></div>
+        <h3>Inspección y corrección rápida</h3>
+      </div>
+      <div>
+        <div class="msg">Detectar y corregir anomalías durante la operación.</div>
+        <div class="mini">Servicio de respuesta rápida, baja complejidad y direccionamiento a mantenimiento mayor.</div>
+      </div>
+    </div>
+    <div class="map-card band green">
+      <div>
+        <div class="k">CAR 2</div>
+        <div class="icon" style="color:#fff;margin:16px 0 18px"><svg viewBox="0 0 24 24"><path d="M14 6l4 4M4 20l5-1 10-10-4-4L5 15z"/><path d="M3 21l6-2"/></svg></div>
+        <h3>Mantenimiento y reparaciones mayores</h3>
+      </div>
+      <div>
+        <div class="msg">Ejecutar intervenciones de mayor complejidad.</div>
+        <div class="mini">Abarca mecánica, frenos, suspensión, rodaje, enganche/rala, soldadura y eléctrico.</div>
+      </div>
+    </div>
+    <div class="map-card band amber">
+      <div>
+        <div class="k">Licitación</div>
+        <div class="icon" style="color:#fff;margin:16px 0 18px"><svg viewBox="0 0 24 24"><path d="M5 4h14v16H5z"/><path d="M8 8h8M8 12h8M8 16h5"/></svg></div>
+        <h3>Mantenimiento integral de vagones</h3>
+      </div>
+      <div>
+        <div class="msg">Entregar vagones completamente terminados.</div>
+        <div class="mini">Modelo contractual por equipo terminado y recibido a satisfacción.</div>
+      </div>
+    </div>
+  </div>
+  <div class="map-flow">
+    <div class="map-node"><div><strong>CAR 1</strong><span>Inspecciona, corrige rápido y decide si libera o escala.</span></div></div>
+    <div class="map-arrow">→</div>
+    <div class="map-node"><div><strong>CAR 2</strong><span>Recibe trabajos de mayor complejidad y cierre técnico.</span></div></div>
+    <div class="map-arrow">→</div>
+    <div class="map-node"><div><strong>Licitación</strong><span>Produce flujo sostenido de vagones terminados bajo tarifa por equipo.</span></div></div>
+  </div>
+  <div class="note">Mensaje clave: no son tres variantes del mismo servicio; son <strong>tres necesidades con lógicas de contratación diferentes</strong>.</div>
+</section>
+
+<section class="slide car1" data-title="CAR 1 - modelo operativo">
+  <div class="kicker">CAR 1</div>
+  <h2 class="title">Inspección y corrección rápida</h2>
+  <div class="subtitle">Punto de revisión continua de vagones y tractomulas. Su función es sostener la operación, cerrar anomalías de baja complejidad y direccionar lo que requiera mantenimiento mayor.</div>
+  <div class="rule"></div>
+  <div class="car1-layout">
+    <div>
+      <div class="process">
+        <div class="pstep"><div class="n">1</div><div><h4>Inspeccionar</h4><p>Revisión visual, funcional y de seguridad del equipo.</p></div><div class="arrow">›</div></div>
+        <div class="pstep"><div class="n">2</div><div><h4>Identificar novedades</h4><p>Clasificar hallazgos y definir atención inmediata o escalamiento.</p></div><div class="arrow">›</div></div>
+        <div class="pstep"><div class="n">3</div><div><h4>Corregir baja complejidad</h4><p>Ajustes menores, lubricación, fijaciones, conexiones y correcciones rápidas.</p></div><div class="arrow">›</div></div>
+        <div class="pstep"><div class="n">4</div><div><h4>Liberar o escalar</h4><p>Entregar el equipo operativo o remitirlo a CAR 2 / mantenimiento programado.</p></div><div class="arrow">›</div></div>
+      </div>
+      <div class="persona-strip">
+        <div class="persona"><div><strong>3</strong><span>Mecánicos contratistas<br>asignados a CAR 1</span></div></div>
+        <div class="eq">+</div>
+        <div class="persona"><div><strong>3</strong><span>Personas propias</span></div></div>
+        <div class="eq">=</div>
+        <div class="persona"><div><strong>6</strong><span>Total operación CAR 1<br>3 parejas de trabajo</span></div></div>
+      </div>
+    </div>
+    <div>
+      <div class="scope-grid">
+        <div class="scope"><h4>Mecánica</h4><p>Holguras, tornillería, fugas, elementos de seguridad, lubricación y ajustes menores.</p></div>
+        <div class="scope"><h4>Neumático / frenos</h4><p>Líneas, cámaras, conexiones, pérdidas de presión y ajustes menores.</p></div>
+        <div class="scope"><h4>Rodaje / suspensión</h4><p>Manzanas, rodamientos visibles, muelles, bases, grapas y juego anormal.</p></div>
+        <div class="scope"><h4>Enganche / rala</h4><p>Argolla, tiro, pasadores, cadenas, fijaciones y holguras.</p></div>
+        <div class="scope"><h4>Eléctrico</h4><p>Iluminación, tomas, cableado, direccionales y luces de freno.</p></div>
+        <div class="scope soft"><h4>Salida esperada</h4><p><strong>Liberar el equipo</strong> o <strong>escalar a CAR 2 / mantenimiento programado</strong>.</p></div>
+      </div>
+      <div class="alert">CAR 1 es un <strong>punto de inspección y corrección rápida</strong>; <strong>no es un taller de reparaciones mayores</strong>.</div>
+    </div>
+  </div>
+</section>
+
+<section class="slide car1" data-title="CAR 1 - personal y turnos">
+  <div class="kicker">CAR 1</div>
+  <h2 class="title">Personal contratista, turnos y cobertura</h2>
+  <div class="subtitle">Se requieren 10 mecánicos contratistas en total: 3 para CAR 1 en cobertura 24 horas y 7 para operación complementaria en jornada ordinaria.</div>
+  <div class="rule"></div>
+  <div class="staff-grid">
+    <div class="staff-summary">
+      <div class="mini-card">
+        <div class="label">Dotación contratista requerida</div>
+        <div class="big">10</div>
+        <h4>Mecánicos contratistas</h4>
+        <p>Base total para el servicio. Se distribuyen entre CAR 1 y soporte operativo complementario.</p>
+      </div>
+      <div class="mini-card">
+        <div class="label">Asignación</div>
+        <h4>3 → CAR 1</h4>
+        <p>Cobertura 24 horas, integrados con 3 personas propias para conformar 3 parejas de trabajo.</p>
+        <h4 style="margin-top:12px">7 → operación complementaria</h4>
+        <p>Lunes a viernes de 07:00 a 16:00 y fin de semana de 07:00 a 15:00.</p>
+      </div>
+      <div class="mini-card">
+        <div class="label">Cobertura fin de semana</div>
