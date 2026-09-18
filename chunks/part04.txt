@@ -1,0 +1,86 @@
+div>
+        <p><strong>Fin de semana A:</strong> 4 trabajan y 3 descansan.</p>
+        <p style="margin-top:8px"><strong>Fin de semana B:</strong> se rotan los grupos.</p>
+        <p style="margin-top:8px">Objetivo: <strong>aprox. un fin de semana cada 15 días por persona</strong>.</p>
+      </div>
+    </div>
+    <div class="shift-area">
+      <div class="patterns">
+        <div class="pattern">
+          <h4>Patrón de referencia por pareja · Bloque A</h4>
+          <div class="seq"><span class="sq d">D</span><span class="sq d">D</span><span class="sq d">D</span><span class="sq d">D</span><span class="sq n">N</span><span class="sq n">N</span><span class="sq n">N</span><span class="sq x">X</span><span class="sq x">X</span><span class="sq x">X</span></div>
+          <div class="small" style="margin-top:8px">4 días 06:00–18:00 → 3 noches 18:00–06:00 → 3 descansos.</div>
+        </div>
+        <div class="pattern">
+          <h4>Patrón de referencia por pareja · Bloque B</h4>
+          <div class="seq"><span class="sq n">N</span><span class="sq n">N</span><span class="sq n">N</span><span class="sq n">N</span><span class="sq d">D</span><span class="sq d">D</span><span class="sq d">D</span><span class="sq x">X</span><span class="sq x">X</span><span class="sq x">X</span><span class="sq x">X</span></div>
+          <div class="small" style="margin-top:8px">4 noches 18:00–06:00 → 3 días 06:00–18:00 → 4 descansos.</div>
+        </div>
+      </div>
+      <div class="timeline">
+        <div class="flex between center" style="margin-bottom:8px">
+          <strong style="font-size:16px;color:var(--navy)">Escalonamiento visual de las tres parejas</strong>
+          <div class="legend">
+            <span class="pill"><span class="dot" style="background:var(--blue2)"></span>Día</span>
+            <span class="pill"><span class="dot" style="background:var(--navy2)"></span>Noche</span>
+            <span class="pill"><span class="dot" style="background:var(--rest)"></span>Descanso</span>
+          </div>
+        </div>
+        <div class="thead"><div></div><div>1</div><div>2</div><div>3</div><div>4</div><div>5</div><div>6</div><div>7</div><div>8</div><div>9</div><div>10</div><div>11</div><div>12</div><div>13</div><div>14</div></div>
+        <div class="trow"><div class="tlabel">Pareja 1</div><div class="tcell d">D</div><div class="tcell d">D</div><div class="tcell d">D</div><div class="tcell d">D</div><div class="tcell n">N</div><div class="tcell n">N</div><div class="tcell n">N</div><div class="tcell x">X</div><div class="tcell x">X</div><div class="tcell x">X</div><div class="tcell n">N</div><div class="tcell n">N</div><div class="tcell n">N</div><div class="tcell n">N</div></div>
+        <div class="trow"><div class="tlabel">Pareja 2</div><div class="tcell x">X</div><div class="tcell x">X</div><div class="tcell x">X</div><div class="tcell n">N</div><div class="tcell n">N</div><div class="tcell n">N</div><div class="tcell n">N</div><div class="tcell d">D</div><div class="tcell d">D</div><div class="tcell d">D</div><div class="tcell x">X</div><div class="tcell x">X</div><div class="tcell x">X</div><div class="tcell x">X</div></div>
+        <div class="trow"><div class="tlabel">Pareja 3</div><div class="tcell d">D</div><div class="tcell d">D</div><div class="tcell d">D</div><div class="tcell x">X</div><div class="tcell x">X</div><div class="tcell x">X</div><div class="tcell x">X</div><div class="tcell d">D</div><div class="tcell d">D</div><div class="tcell d">D</div><div class="tcell d">D</div><div class="tcell n">N</div><div class="tcell n">N</div><div class="tcell n">N</div></div>
+        <div class="small" style="margin-top:10px">Referencia visual del relevo entre parejas. El proveedor debe comprender el ciclo solicitado y su cobertura operativa.</div>
+      </div>
+      <div class="weekend">
+        <div class="weekbox"><strong>Turno día</strong><span>06:00 a 18:00</span></div>
+        <div class="weekbox"><strong>Turno noche</strong><span>18:00 a 06:00</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="slide car2" data-title="CAR 2">
+  <div class="kicker">CAR 2</div>
+  <h2 class="title">Mantenimiento y reparaciones mayores</h2>
+  <div class="subtitle">Servicio orientado a intervenciones que requieren mayor complejidad técnica, desmontaje, recuperación, reemplazo de componentes o especialidades específicas.</div>
+  <div class="rule"></div>
+  <div class="car2-layout">
+    <div>
+      <div class="staff-band">
+        <div class="label" style="color:#D9ECE2">Personal requerido</div>
+        <div class="big">7</div>
+        <div class="split">
+          <div><strong>5</strong><span>Mecánicos</span></div>
+          <div><strong>1</strong><span>Soldador</span></div>
+          <div><strong>1</strong><span>Electricista</span></div>
+        </div>
+      </div>
+      <div class="schedule2">
+        <div class="s2"><h4>Lunes a viernes</h4><div class="time">07:00–16:00</div><div class="small">Jornada principal de ejecución y cierre técnico.</div></div>
+        <div class="s2"><h4>Fin de semana</h4><div class="time">07:00–15:00</div><div class="small">Rotación alternada. El proveedor debe asegurar que la rotación no deje competencias críticas descubiertas.</div></div>
+      </div>
+    </div>
+    <div class="system-shell">
+      <div class="system-core"><div><strong>ALCANCE CAR 2</strong><span>Intervención mayor por sistemas del vagón</span></div></div>
+      <div class="sys s1"><h4>Neumático y frenos</h4><p>Cámaras, bandas, levas, ratches, mangueras, conexiones, válvulas, fugas y pruebas funcionales.</p></div>
+      <div class="sys s2"><h4>Suspensión</h4><p>Muelles, hojas, grapas, bases fijas, bases centrales, balancines y bujes.</p></div>
+      <div class="sys s3"><h4>Rodaje</h4><p>Desmontaje de manzanas, rodamientos, sellos, tuercas, tapacubos, engrase y ajuste.</p></div>
+      <div class="sys s4"><h4>Enganche y rala</h4><p>Enganches, argollas, tornillería, pasadores, cadenas, rala y corrección de holguras.</p></div>
+      <div class="sys s5"><h4>Soldadura</h4><p>Fisuras, soportes, elementos estructurales, reparaciones y recuperaciones.</p></div>
+      <div class="sys s6"><h4>Eléctrico</h4><p>Cableado, tomas, extensiones, lámparas, luces de freno, direccionales y posición.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="slide bid" data-title="Licitación de mantenimiento integral">
+  <div class="kicker">Licitación</div>
+  <h2 class="title">Mantenimiento integral de vagones</h2>
+  <div class="subtitle">Modelo de contratación orientado al resultado: vagones completamente terminados y recibidos a satisfacción.</div>
+  <div class="rule"></div>
+  <div class="bid-layout">
+    <div class="bid-main">
+      <div class="pay-box">
+        <div class="k">Mensaje central</div>
+        <div class="headline">PAGO POR VAGÓN COMPLETAMENTE TERMINADO</div>
+        <div class="sub">No se está solicitando una cantidad fija de per
