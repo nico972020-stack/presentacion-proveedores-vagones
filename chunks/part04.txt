@@ -1,4 +1,4 @@
-div>
+</div>
         <p><strong>Fin de semana A:</strong> 4 trabajan y 3 descansan.</p>
         <p style="margin-top:8px"><strong>Fin de semana B:</strong> se rotan los grupos.</p>
         <p style="margin-top:8px">Objetivo: <strong>aprox. un fin de semana cada 15 días por persona</strong>.</p>
