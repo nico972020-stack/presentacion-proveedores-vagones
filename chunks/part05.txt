@@ -1,0 +1,105 @@
+sonas. El proveedor define la estructura operativa necesaria para cumplir producción, calidad y continuidad.</div>
+      </div>
+      <div class="bid-list">
+        <h4>El proveedor deberá definir</h4>
+        <ul>
+          <li>Cantidad de mecánicos, soldadores y electricistas.</li>
+          <li>Supervisión y distribución del personal.</li>
+          <li>Metodología de trabajo y organización del flujo.</li>
+          <li>Capacidad de producción por día, semana y mes.</li>
+        </ul>
+      </div>
+      <div class="result-box">El resultado, no la cantidad de personas, es lo que define el servicio.</div>
+      <div class="bid-list">
+        <h4>Condición contractual esperada</h4>
+        <ul>
+          <li>Flujo constante de vagones terminados.</li>
+          <li>Responsable de control de calidad.</li>
+          <li>Condiciones de retrabajo y garantía.</li>
+          <li>Capacidad de aumentar producción cuando se requiera.</li>
+        </ul>
+      </div>
+    </div>
+    <div class="wagon-scope">
+      <div class="wagon-core"><div><strong>ALCANCE TÉCNICO</strong><span>El vagón debe entregarse completamente intervenido por sistemas</span></div></div>
+      <div class="wsys w1"><h4>Rodaje y manzanas</h4><p>Retiro, desarme, limpieza, revisión de rodamientos, pistas, sellos, engrase, ajuste, montaje y verificación.</p></div>
+      <div class="wsys w2"><h4>Suspensión</h4><p>Muelles, hojas, tornillos centrales, tornillería, tuercas, arandelas, bujes, balancines, bases y grapas.</p></div>
+      <div class="wsys w3"><h4>Enganche y tiro</h4><p>Revisión o cambio de enganche, argolla, pasadores, cadenas, fijaciones y corrección de holguras.</p></div>
+      <div class="wsys w4"><h4>Rala</h4><p>Holguras, lubricación, tornillería, ajuste, reparación o cambio cuando aplique.</p></div>
+      <div class="wsys w5"><h4>Neumático y frenos</h4><p>Cámaras, bandas, levas, ratches, mangueras, tuberías, válvulas, fugas, ajustes y prueba funcional.</p></div>
+      <div class="wsys w6"><h4>Eléctrico</h4><p>Tomas macho/hembra, cableado, extensiones, lámparas, luces de freno, direccionales, posición y prueba funcional.</p></div>
+      <div class="wsys w7"><h4>Estructura y soldadura</h4><p>Revisión de fisuras, soportes, recuperación estructural y cambio seguro de elementos no recuperables.</p></div>
+      <div class="wsys w8"><h4>Fijaciones y lubricación</h4><p>Inspección general, cambio de elementos faltantes o deteriorados, graseras y verificación de todos los puntos de engrase.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="slide" data-title="Condición de entrega y pago">
+  <div class="kicker">Control de calidad y recibo</div>
+  <h2 class="title">¿Cuándo se considera terminado un vagón?</h2>
+  <div class="rule"></div>
+  <div class="quality-layout">
+    <div class="gate">
+      <h3>Puerta de salida del servicio</h3>
+      <div class="check-grid">
+        <div class="citem"><span class="check">✓</span>Mecánica</div>
+        <div class="citem"><span class="check">✓</span>Soldadura</div>
+        <div class="citem"><span class="check">✓</span>Eléctrico</div>
+        <div class="citem"><span class="check">✓</span>Pruebas</div>
+        <div class="citem"><span class="check">✓</span>Control de calidad</div>
+        <div class="citem"><span class="check">✓</span>Documentación</div>
+      </div>
+      <div class="reject"><span class="cross">×</span> No se considera terminado un equipo con pendientes mecánicos, eléctricos, de soldadura, de prueba o de control de calidad.</div>
+      <div class="pay-note"><strong>Forma de pago</strong><span>Pago por vagón completamente terminado y recibido a satisfacción; no por horas-hombre, cantidad de personas, días utilizados o equipos parcialmente terminados.</span></div>
+    </div>
+    <div class="qflow">
+      <h3>Flujo de entrega y recibo</h3>
+      <div class="flow-line">
+        <div class="fnode">Intervención</div><div class="farrow">→</div>
+        <div class="fnode">Control de calidad del proveedor</div><div class="farrow">→</div>
+        <div class="fnode">Presentación a recibo</div><div class="farrow">→</div>
+        <div class="fnode">Inspección</div><div class="farrow">→</div>
+        <div class="fnode ok">Aprobado</div><div class="farrow">→</div>
+        <div class="fnode ok">Liberación</div>
+      </div>
+      <div class="rework">Si no aprueba: <strong>retrabajo → nueva inspección</strong>. El proveedor debe contar con un responsable de control de calidad antes de presentar el equipo a recibo.</div>
+    </div>
+  </div>
+</section>
+
+<section class="slide" data-title="Información requerida en la propuesta">
+  <div class="kicker">Contenido de la propuesta</div>
+  <h2 class="title">Información requerida al proveedor</h2>
+  <div class="rule"></div>
+  <div class="matrix">
+    <h3>Qué debe presentar en su oferta</h3>
+    <div class="table">
+      <div class="cellh">Requisito</div>
+      <div class="cellh car1h">CAR 1</div>
+      <div class="cellh car2h">CAR 2</div>
+      <div class="cellh bidh">Licitación integral</div>
+
+      <div class="rowh">Tarifa y cobertura</div>
+      <div class="cell">Tarifa del servicio, cobertura 24 horas y propuesta de rotación.</div>
+      <div class="cell">Tarifa del servicio y disponibilidad de atención en semana y fin de semana.</div>
+      <div class="cell">Tarifa por vagón terminado y capacidad por día, semana y mes.</div>
+
+      <div class="rowh">Personal y competencias</div>
+      <div class="cell">Personal disponible, perfiles, reemplazos y supervisión.</div>
+      <div class="cell">Personal, experiencia y competencias en mecánica, soldadura y electricidad.</div>
+      <div class="cell">Cantidad de personal propuesto, supervisión y responsable de control de calidad.</div>
+
+      <div class="rowh">Metodología y operación</div>
+      <div class="cell">Modelo de atención, escalamiento y continuidad operativa.</div>
+      <div class="cell">Metodología de ejecución, herramientas y esquema de fin de semana.</div>
+      <div class="cell">Metodología de trabajo, tiempo de ciclo estimado, flujo de producción y plan de contingencia.</div>
+
+      <div class="rowh">Aseguramiento y garantía</div>
+      <div class="cell">Esquema de supervisión y continuidad del servicio.</div>
+      <div class="cell">Control de calidad, disponibilidad y soporte de especialidades.</div>
+      <div class="cell">Garantía, condiciones de retrabajo y capacidad para aumentar producción.</div>
+    </div>
+    <div class="matrix-note">
+      <div class="mnote" style="background:var(--blue)">La propuesta debe permitir validar <strong>capacidad operativa real</strong>, no solo disponibilidad teórica.</div>
+      <div class="mnote" style="background:var(--green)">La oferta debe demostrar <strong>competencias técnicas</strong> y continuidad en las especialidades requeridas.</div>
+      <div class="mnote" style="background:var(--amber)">En la licitación, el f
