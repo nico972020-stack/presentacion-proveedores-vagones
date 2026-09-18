@@ -1,3 +1,4 @@
+
       <h3>Información de la oferta</h3>
       <p>Establecer qué deberá incluir cada propuesta: tarifa, capacidad, personal, cobertura, control de calidad y garantías.</p>
     </div>
