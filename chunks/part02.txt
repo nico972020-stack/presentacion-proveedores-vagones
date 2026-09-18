@@ -1,0 +1,106 @@
+size:18px;font-weight:800;color:var(--ink)}
+.reject{margin-top:14px;background:#FBEEEE;border:1px solid #ECC1C1;border-radius:16px;padding:14px 16px;font-size:16px;line-height:1.34;color:#7A2F2F;font-weight:800}
+.pay-note{margin-top:14px;background:#EAF5F0;border:1px solid #C4DFD2;border-radius:16px;padding:14px 16px}
+.pay-note strong{display:block;font-size:20px;color:var(--green);margin-bottom:4px}
+.pay-note span{font-size:15px;line-height:1.34;color:#456758}
+.qflow{background:#fff;border:1px solid var(--line);border-radius:22px;padding:22px}
+.flow-line{display:grid;grid-template-columns:1fr 36px 1fr 36px 1fr 36px 1fr 36px 1fr 36px 1fr;gap:0;align-items:center;margin-top:10px}
+.fnode{background:#fff;border:1px solid var(--line);border-radius:14px;min-height:102px;display:grid;place-items:center;text-align:center;padding:10px 12px;font-size:16px;font-weight:800;color:var(--navy)}
+.fnode.ok{background:#EDF8F2;border-color:#C8E2D3;color:var(--green)}
+.farrow{text-align:center;font-size:30px;color:#8A97A4;font-weight:900}
+.rework{margin-top:16px;background:#FFF6E8;border:1px solid #ECD7A1;border-radius:16px;padding:14px 16px;font-size:16px;line-height:1.36;color:#6C571E;font-weight:800}
+/* slide 9 */
+.matrix{background:#fff;border:1px solid var(--line);border-radius:22px;padding:20px;margin-top:4px}
+.table{display:grid;grid-template-columns:240px 1fr 1fr 1fr;border:1px solid var(--line);border-radius:16px;overflow:hidden}
+.cellh{background:var(--navy);color:#fff;padding:14px 16px;font-size:17px;font-weight:900;border-right:1px solid rgba(255,255,255,.14)}
+.cellh.car1h{background:var(--blue)} .cellh.car2h{background:var(--green)} .cellh.bidh{background:var(--amber)}
+.rowh{background:#F1F5F8;padding:14px 16px;border-right:1px solid var(--line);border-top:1px solid var(--line);font-size:16px;font-weight:900;color:var(--navy)}
+.cell{padding:13px 15px;border-top:1px solid var(--line);border-right:1px solid var(--line);font-size:14px;line-height:1.32;color:var(--ink);background:#fff}
+.table > div:nth-child(4n){border-right:none}
+.matrix-note{display:grid;grid-template-columns:1fr 1fr 1fr;gap:12px;margin-top:14px}
+.mnote{border-radius:14px;padding:14px 16px;color:#fff;font-size:15px;line-height:1.34;font-weight:800}
+/* slide 10 */
+.close-layout{display:grid;grid-template-columns:1.1fr .9fr;gap:24px;margin-top:6px}
+.steps{display:grid;grid-template-columns:repeat(6,1fr);gap:12px}
+.step{position:relative;background:#fff;border:1px solid var(--line);border-radius:14px;padding:20px 12px 14px;text-align:center;min-height:150px}
+.step .n{width:34px;height:34px;border-radius:50%;display:grid;place-items:center;background:var(--navy);color:#fff;margin:0 auto 16px;font-weight:900}
+.step h4{margin:0;font-size:15px;line-height:1.26;color:var(--navy)}
+.step:not(:last-child)::after{content:"→";position:absolute;right:-14px;top:58px;font-size:24px;font-weight:900;color:#8A97A4;z-index:2}
+.close-left .msg{margin-top:18px;background:var(--navy);border-radius:18px;padding:22px 26px;color:#fff;font-size:24px;line-height:1.34;font-weight:900}
+.expect{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.ex{border-radius:18px;padding:20px 18px;color:#fff;min-height:126px}
+.ex strong{display:block;font-size:24px;line-height:1.08;margin-bottom:8px}
+.ex span{font-size:15px;line-height:1.34;opacity:.96}
+/* controls */
+#controls{position:absolute;right:28px;bottom:18px;display:flex;align-items:center;gap:8px;z-index:50}
+#counter{font-size:14px;font-weight:800;color:#6A7684;margin-right:4px}
+.ctrl{height:36px;min-width:36px;padding:0 12px;border-radius:10px;border:1px solid #CCD5DE;background:rgba(255,255,255,.95);color:var(--navy);cursor:pointer;font-weight:800;box-shadow:0 2px 8px rgba(10,20,35,.08)}
+.ctrl:hover{background:#fff;border-color:#9FACBA}
+@media print{
+  html,body{width:auto;height:auto;overflow:visible;background:#fff}
+  #viewport{position:static;overflow:visible;background:#fff}
+  #deck{position:static;transform:none!important;width:1600px;height:auto;box-shadow:none}
+  .slide{display:block!important;position:relative;width:1600px;height:900px;page-break-after:always;break-after:page}
+  #controls{display:none!important}
+  @page{size:16in 9in;margin:0}
+}
+</style>
+</head>
+<body>
+<div id="viewport">
+<main id="deck" aria-label="Presentación ejecutiva para proveedores">
+
+<section class="slide cover active" data-title="Portada">
+  <div class="cover-left">
+    <div class="eyebrow">Reunión con proveedores</div>
+    <h1>PROPUESTA DE SERVICIOS DE MANTENIMIENTO</h1>
+    <div class="sub1">VAGONES Y TRACTOMULAS</div>
+    <div class="sub1" style="font-size:20px;color:#5C6978;margin-top:16px">CAR 1 | CAR 2 | MANTENIMIENTO INTEGRAL DE VAGONES</div>
+    <div class="sub2">Septiembre 2026</div>
+  </div>
+  <div class="cover-tags">
+    <span class="cover-tag">Cobertura operativa</span>
+    <span class="cover-tag">Alcance técnico</span>
+    <span class="cover-tag">Condiciones de recibo</span>
+    <span class="cover-tag">Información para propuesta</span>
+  </div>
+  <div class="cover-right">
+    <svg class="cover-svg" viewBox="0 0 500 520" aria-hidden="true">
+      <g fill="none" stroke="#DCE7F3" stroke-width="5" opacity=".98">
+        <rect x="70" y="138" width="220" height="100" rx="8"/>
+        <path d="M290 163h68l40 40v35H290z"/>
+        <circle cx="130" cy="270" r="33"/><circle cx="300" cy="270" r="33"/><circle cx="392" cy="270" r="33"/>
+        <path d="M48 305h380"/>
+        <path d="M85 237l-18 27M255 237l18 27"/>
+        <path d="M105 118h170M128 98h120" opacity=".6"/>
+        <rect x="72" y="340" width="270" height="62" rx="8"/>
+        <circle cx="128" cy="430" r="28"/><circle cx="287" cy="430" r="28"/>
+        <path d="M347 371h62l26 31v31h-88z"/>
+        <circle cx="404" cy="430" r="28"/>
+        <path d="M90 325h230M90 417h350" opacity=".8"/>
+        <circle cx="196" cy="101" r="52" opacity=".75"/>
+        <circle cx="196" cy="101" r="14" opacity=".95"/>
+        <path d="M196 49v104M144 101h104M160 65l72 72M232 65l-72 72" opacity=".75"/>
+      </g>
+    </svg>
+  </div>
+</section>
+
+<section class="slide" data-title="Objetivo de la reunión">
+  <div class="kicker">Propósito de la reunión</div>
+  <h2 class="title">Alinear claramente el requerimiento antes de recibir propuestas</h2>
+  <div class="rule"></div>
+  <div class="quote">“Presentar los requerimientos operativos y técnicos para los servicios de mantenimiento que serán objeto de propuesta por parte de los proveedores.”</div>
+  <div class="obj-grid">
+    <div class="obj">
+      <div class="num">01</div>
+      <h3>Modelo operativo</h3>
+      <p>Explicar cómo debe funcionar cada servicio, qué horarios debe cubrir y cómo se espera que opere en campo.</p>
+    </div>
+    <div class="obj">
+      <div class="num">02</div>
+      <h3>Alcance técnico</h3>
+      <p>Definir con precisión los sistemas, trabajos y resultados que deberán ser ejecutados por cada modalidad.</p>
+    </div>
+    <div class="obj">
+      <div class="num">03</div>
